@@ -1,0 +1,21 @@
+{
+  "name": "slopstopper",
+  "owner": { "name": "Aoife Okonedo Martin" },
+  "plugins": [
+    {
+      "name": "plumb-line",
+      "source": { "source": "github", "repo": "slopstopper/plumb-line" },
+      "description": "Epistemic honesty enforced by tooling — review-time skills (method, bootstrap, audit, remediate) plus a run-time provenance primitive for JavaScript and Python. Get oriented: run plumb-line-method first."
+    },
+    {
+      "name": "tokenomics",
+      "source": { "source": "github", "repo": "slopstopper/tokenomics" },
+      "description": "The token economics of model tiering — three skills (method, bootstrap, handoff) that route work to the cheapest capable model tier and carry strategy across sessions in a living playbook."
+    },
+    {
+      "name": "recursive-spine",
+      "source": { "source": "github", "repo": "slopstopper/recursive-spine" },
+      "description": "A tracking convention that survives being applied to itself — GitHub issues + milestones as the only home of work state; skills (method, bootstrap, migrate, digest) to teach, stamp, migrate, and sweep it."
+    }
+  ]
+}
