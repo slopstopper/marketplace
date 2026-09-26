@@ -16,7 +16,7 @@ commands. What the org is against, and why, lives on the
 
 | plugin | owns | status |
 |---|---|---|
-| [plumb-line](https://github.com/slopstopper/plumb-line) | whether claims are honest | public, v0.6.x |
+| [plumb-line](https://github.com/slopstopper/plumb-line) | whether claims are honest | public, v0.11.x |
 | [tokenomics](https://github.com/slopstopper/tokenomics) | which model does the work | public, v0.3.x |
 | [recursive-spine](https://github.com/slopstopper/recursive-spine) | where tracked state lives | **private for now** — installs will 404 for non-members until its public flip ([recursive-spine#10](https://github.com/slopstopper/recursive-spine/issues/10)). Listed anyway; hiding it would overstate the other two. |
 
